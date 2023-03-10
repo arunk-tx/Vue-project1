@@ -1,0 +1,8 @@
+{
+    "jobs": [
+      { "title": "Ninja1", "id": 1, "details": "detail1" },
+      { "title": "Ninja2", "id": 2, "details": "d2" },
+      { "title": "Ninja3", "id": 3, "details": "d3" }
+    ]
+  }
+  
